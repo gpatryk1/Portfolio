@@ -22,5 +22,12 @@
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EbM6GwmmXVRMhRiV3Ha1uUUBEoY6Co-_HI_v27kPVInECg?e=PhrQNL" target="_blank">Upozrądkuj klase 2</a><br>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EZu_aRSMF8lCvJnmYVkPu0YBnTu5Ht7sKCCbDagXwSBSQg?e=xalMbp" target="_blank">Upozrądkuj klase 3</a><br>
 
+<h4>Raport testy ekspolarycjne</h4>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EX3m61H5zvxEvffatOVNqRoBZn2Qxjni8ZP2YZIcrEjXSg?e=EKoIZg" target="_blank">Raport 1</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EZSdOy5Eu3NOpeCSjYf8S4YB1IneaP_6-wkemHubUSy0OA?e=NHcw4A" target="_blank">Raport 2</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/ESa48B6Du81GiTX6LJjsRREBcxIsapwxEur9xSzChLf1WQ?e=89SH3v" target="_blank">Raport 3</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EaDbwmgwHANGl1mjYkejrvgBtCECPWihPL--R_QY0kM7Vw?e=htvuuA" target="_blank">Raport 4</a><br>
+
+
 <h2>API Test</h2>
 <h2>Testy wydajnościowe</h2>
