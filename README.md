@@ -5,5 +5,10 @@
 
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/ESApNlI4_9xNltM2IG5rk6ABH21YUNg9hhHnpfWNAgBMIA?e=f9JooO" target="_blank">Plan/checklista testy regresyjne strony www</a>
 
-<h1>Scenariusz testowy + przypadki testowe</h1>
+<h2>Scenariusz testowy + przypadki testowe</h2>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWLTDP1FM0ZGkRGU0ckaFeoB5lhiUB_JggQlN6oXxw_nbw?e=rp74UU" target="_blank">Scenariusz funkcji obsługi koszyka</a>
+
+
+<h2>Raportowanie błędów</h2> 
+<h2>API Test</h2>
+<h2>Testy wydajnościowe</h2>
