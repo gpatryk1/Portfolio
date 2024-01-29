@@ -6,14 +6,14 @@
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Eb-AXYYizLVJtJsoZbVCm-sBK3PLhk6ZTepDw24PDTUXSw?e=htR3L9" target="_blank">Opisy defektów MrBuggy3</a><br>
 
 <h2>Scenariusz testowy + przypadki testowe</h2>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWLTDP1FM0ZGkRGU0ckaFeoB5lhiUB_JggQlN6oXxw_nbw?e=rp74UU" target="_blank">Scenariusz funkcji obsługi koszyka</a><br>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EUviYEONVbdJq3rCWLfxAYoBHQiyWfXmcQ2SlE5CZXATZA?e=Sa8XNn" target="_blank">Scenariusz MrBuggy</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWLTDP1FM0ZGkRGU0ckaFeoB5lhiUB_JggQlN6oXxw_nbw?e=rp74UU" >Scenariusz funkcji obsługi koszyka</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EUviYEONVbdJq3rCWLfxAYoBHQiyWfXmcQ2SlE5CZXATZA?e=Sa8XNn" >Scenariusz MrBuggy</a><br>
 
 
 <h2>Testy wydajnościowe JMeter</h2>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Ef_C0_xnh75ArjV03GkSARwBDfJx3bvg3UX0hn5_AQWnMw?e=Nd2gUu" target="_blank">Scenariusz testu wydajnościowego strony www</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Ef_C0_xnh75ArjV03GkSARwBDfJx3bvg3UX0hn5_AQWnMw?e=Nd2gUu" >Scenariusz testu wydajnościowego strony www</a><br>
 
-<a href="https://github.com/gpatryk1/testyWydajno-ciowe">20 użytkowników przechodzi przez formularz zakupowy</a><br>
+<a href="https://github.com/gpatryk1/testyWydajno-ciowe"> TEST .jmx 20 użytkowników przechodzi przez formularz zakupowy</a><br>
 
 
 <h2>Raportowanie błędów</h2> 
