@@ -11,7 +11,7 @@
 
 
 <h2>Testy wydajnościowe JMeter</h2>
-
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Ef_C0_xnh75ArjV03GkSARwBDfJx3bvg3UX0hn5_AQWnMw?e=Nd2gUu" target="_blank">Scenariusz testu wydajnościowego strony www</a><br>
 <h2>Raportowanie błędów</h2> 
 <h4>Aplikacja webowa</h4>
 
