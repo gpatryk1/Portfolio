@@ -6,8 +6,8 @@
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EZvO67RAoulBjRIRv1LI-VgBYPHZZSxuKq5GIDMeQI4eIg?e=Crjru6" target="_blank">Przypadki testowe apliakcja webowa</a><br>
 
 <h2>Scenariusz testowy + przypadki testowe</h2>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWLTDP1FM0ZGkRGU0ckaFeoB5lhiUB_JggQlN6oXxw_nbw?e=rp74UU" target="_blank">Scenariusz funkcji obsługi koszyka</a>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EUviYEONVbdJq3rCWLfxAYoBHQiyWfXmcQ2SlE5CZXATZA?e=Sa8XNn" target="_blank">Scenariusz MrBuggy</a>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWLTDP1FM0ZGkRGU0ckaFeoB5lhiUB_JggQlN6oXxw_nbw?e=rp74UU" target="_blank">Scenariusz funkcji obsługi koszyka</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EUviYEONVbdJq3rCWLfxAYoBHQiyWfXmcQ2SlE5CZXATZA?e=Sa8XNn" target="_blank">Scenariusz MrBuggy</a><br>
 
 
 <h2>Testy wydajnościowe JMeter</h2>
