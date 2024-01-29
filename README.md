@@ -12,7 +12,7 @@
 
 <h2>Testy wydajnościowe JMeter</h2>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Ef_C0_xnh75ArjV03GkSARwBDfJx3bvg3UX0hn5_AQWnMw?e=Nd2gUu" target="_blank">Scenariusz testu wydajnościowego strony www</a><br>
-Formularz zakupowy sklep www 20 osób <a href="https://github.com/gpatryk1/Testy/blob/2919fb60dc8e61fb8fba9067fc494d9bd47590a8/FormularzZakupyJMeter.jmx">Samochód wyścigowy 1</a><br>
+<a href="https://github.com/gpatryk1/Testy/blob/2919fb60dc8e61fb8fba9067fc494d9bd47590a8/FormularzZakupyJMeter.jmx">Formularz zakupowy sklep www 20 osób</a><br>
 
 <h2>Raportowanie błędów</h2> 
 <h4>Aplikacja webowa</h4>
