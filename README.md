@@ -1,9 +1,9 @@
 <h1>Dokumentacja Testowa</h1>
 
 <h2>Plany testów + przypadki</h2>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWfxfuxn1gZIje2_v_Eri4kBK3EKOup_82D3NqIAb5EFEw?e=PaNCDp" target="_blank">Plan testów + 3 przypadki testowe</a>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWfxfuxn1gZIje2_v_Eri4kBK3EKOup_82D3NqIAb5EFEw?e=PaNCDp" target="_blank">Plan testów + 3 przypadki testowe</a>
-<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EZvO67RAoulBjRIRv1LI-VgBYPHZZSxuKq5GIDMeQI4eIg?e=Crjru6" target="_blank">Przypadki testowe apliakcja webowa</a>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWfxfuxn1gZIje2_v_Eri4kBK3EKOup_82D3NqIAb5EFEw?e=PaNCDp" target="_blank">Plan testów + 3 przypadki testowe</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWfxfuxn1gZIje2_v_Eri4kBK3EKOup_82D3NqIAb5EFEw?e=PaNCDp" target="_blank">Plan testów + 3 przypadki testowe</a><br>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EZvO67RAoulBjRIRv1LI-VgBYPHZZSxuKq5GIDMeQI4eIg?e=Crjru6" target="_blank">Przypadki testowe apliakcja webowa</a><br>
 
 <h2>Scenariusz testowy + przypadki testowe</h2>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWLTDP1FM0ZGkRGU0ckaFeoB5lhiUB_JggQlN6oXxw_nbw?e=rp74UU" target="_blank">Scenariusz funkcji obsługi koszyka</a>
