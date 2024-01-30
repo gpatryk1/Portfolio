@@ -15,6 +15,7 @@
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Ef_C0_xnh75ArjV03GkSARwBDfJx3bvg3UX0hn5_AQWnMw?e=Nd2gUu" >Scenariusz testu wydajnościowego strony www</a>  ---->  <a href="https://github.com/gpatryk1/testyWydajno-ciowe/blob/main/Test%20do%20scenariusza3grupy.jmx">Test do scenariusza</a> <br>
 
 <a href="https://github.com/gpatryk1/testyWydajno-ciowe"> TEST .jmx FormularzZakupowyJMeter</a>
+<a href="https://1drv.ms/b/c/88aaadbc5bd923a9/ER0fA9mhn3tIg7Q7zU0nH4UBsqiPsMTjQwb1TZOSgBnZ6Q?e=2GqKmD"> Screeny</a>
 
 
 
