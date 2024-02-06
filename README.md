@@ -5,12 +5,12 @@
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EZvO67RAoulBjRIRv1LI-VgBYPHZZSxuKq5GIDMeQI4eIg?e=Crjru6" target="_blank">Przypadki testowe apliakcja webowa</a><br>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Eb-AXYYizLVJtJsoZbVCm-sBK3PLhk6ZTepDw24PDTUXSw?e=htR3L9" target="_blank">Opisy defektów MrBuggy3</a><br>
 
-<h2>Scenariusz testowy + przypadki testowe</h2>
+<h1>Scenariusz testowy + przypadki testowe</h1>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWLTDP1FM0ZGkRGU0ckaFeoB5lhiUB_JggQlN6oXxw_nbw?e=rp74UU" >Scenariusz funkcji obsługi koszyka</a><br>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EUviYEONVbdJq3rCWLfxAYoBHQiyWfXmcQ2SlE5CZXATZA?e=Sa8XNn" >Scenariusz MrBuggy</a><br>
 
 
-<h2>Testy wydajnościowe JMeter</h2>
+<h1>Testy wydajnościowe JMeter</h1>
 <h5>Jeżeli chodzi o testy wydajnościowe i JMeter to dopiero zaczynam także nawet nie jestem pewny czy one są dobrze skonfigurowane :):)</h5>
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/Ef_C0_xnh75ArjV03GkSARwBDfJx3bvg3UX0hn5_AQWnMw?e=Nd2gUu" >Scenariusz testu wydajnościowego strony www</a>  ---->  <a href="https://github.com/gpatryk1/testyWydajno-ciowe/blob/main/Test%20do%20scenariusza3grupy.jmx">Test do scenariusza</a> <br>
 
@@ -20,7 +20,7 @@
 Tworzenie requestów, nauka pisania testyów i pre-request script.<br>
 <a href="https://github.com/gpatryk1/Postman-REST-API/blob/main/MrBuggy7.postman_collection.json"> Kolekcja Postman MrBuggy + screeny</a>
 
-<h2>Raportowanie błędów</h2> 
+<h1>Raportowanie błędów</h1> 
 <h4>Aplikacja webowa</h4>
 
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/EWfT8JTtYA1HgpIwU51DCYQB5iuabHUNtzjSudX2sFgb_g?e=i47Pcq" target="_blank">Samochód wyścigowy 1</a><br>
@@ -40,4 +40,4 @@ Tworzenie requestów, nauka pisania testyów i pre-request script.<br>
 
 
 
-<h2>SQL</h2
+<h1>SQL</h1>
