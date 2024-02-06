@@ -18,7 +18,7 @@
 <a href="https://1drv.ms/b/c/88aaadbc5bd923a9/ER0fA9mhn3tIg7Q7zU0nH4UBsqiPsMTjQwb1TZOSgBnZ6Q?e=2GqKmD"> Screeny</a>
 <h2>API Test</h2>
 Tworzenie requestów, nauka pisania testyów i pre-request script.<br>
-<a href="https://github.com/gpatryk1/Postman-REST-API/blob/main/MrBuggy7.postman_collection.json"> Kolekcja Postman MrBuggy</a>
+<a href="https://github.com/gpatryk1/Postman-REST-API/blob/main/MrBuggy7.postman_collection.json"> Kolekcja Postman MrBuggy + screeny</a>
 
 <h2>Raportowanie błędów</h2> 
 <h4>Aplikacja webowa</h4>
